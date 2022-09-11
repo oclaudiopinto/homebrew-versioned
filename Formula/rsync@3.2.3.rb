@@ -3,7 +3,7 @@ class RsyncAT323 < Formula
   homepage "https://rsync.samba.org/"
   url "https://rsync.samba.org/ftp/rsync/rsync-3.2.3.tar.gz"
   mirror "https://mirrors.kernel.org/gentoo/distfiles/rsync-3.2.3.tar.gz"
-  mirror "https://www.mirrorservice.org/sites/rsync.samba.org/rsync-3.2.3.tar.gz"
+  mirror "https://www.samba.org/ftp/rsync/src/rsync-3.2.3.tar.gz"
   sha256 "becc3c504ceea499f4167a260040ccf4d9f2ef9499ad5683c179a697146ce50e"
   license "GPL-3.0-or-later"
 
